@@ -1,1 +1,4 @@
 Flask==2.3.2
+Pillow==9.5.0
+opencv-python==4.7.0.72
+super-image==0.1.7
